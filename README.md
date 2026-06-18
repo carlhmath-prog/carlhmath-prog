@@ -40,21 +40,12 @@ Sistema integral para la automatización de turnos y procesamiento de pagos en c
 *   **Pasarela de Pagos:** Integración completa de la API de **Stripe** para procesamiento seguro de transacciones (señas parciales y pagos totales).
 *   **Seguridad y Despliegue:** API REST desarrollada en **Python/Flask** protegida con autenticación por tokens (**JWT**), desplegada en **Render**.
 
-👉 [Ver repositorio del proyecto](https://github.com) *(Ajusta este enlace al repo específico si lo deseas)*
-
----
-
-## 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub de Carlos" width="48%"/>
-  <img src="https://vercel.app" alt="Lenguajes más usados por Carlos" width="48%"/>
-</p>
+👉 [Ver repositorio del proyecto](https://github.com)
 
 ---
 
 ## 📫 Conectemos
-*   **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Agrega aquí tu enlace real de perfil)*
+*   **LinkedIn:** [://linkedin.com](https://linkedin.com) *(Reemplaza este enlace por tu URL personal)*
 *   **Email:** [carlhmath@gmail.com](mailto:carlhmath@gmail.com)
 *   **Ubicación:** Montevideo, Uruguay 🇺🇾
 

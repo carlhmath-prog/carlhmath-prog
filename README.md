@@ -34,7 +34,7 @@ Desarrollador Fullstack con una sólida base analítica y lógica. Me especializ
 
 ## 📫 Conectemos
 
-*   💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/carlos-matias-s-1b5a0b183)
+*   💼 **LinkedIn:** [://linkedin.com](https://www.linkedin.com/in/carlos-matias-s-1b5a0b183/)
 *   📧 **Email:** [carlhmath@gmail.com](mailto:carlhmath@gmail.com)
 *   📍 **Ubicación:** Montevideo, Uruguay 🇺🇾
 

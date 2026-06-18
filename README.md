@@ -28,13 +28,13 @@ Desarrollador Fullstack con una sólida base analítica y lógica. Me especializ
 *   **Pasarela de Pagos:** Integración completa de la API de **Stripe** para procesamiento seguro de transacciones (señas parciales y pagos totales).
 *   **Seguridad y Despliegue:** API REST desarrollada en **Python/Flask** protegida con autenticación por tokens (**JWT**), desplegada en **Render**.
 
-🔗 [Explorar el repositorio del proyecto](https://github.com)
+🔗 [Explorar el repositorio del proyecto](https://github.com/4GeeksAcademy/final-project-69-grupo2)
 
 ---
 
 ## 📫 Conectemos
 
-*   💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+*   💼 **LinkedIn:** [://linkedin.com](www.linkedin.com/in/carlos-matias-s-1b5a0b183)
 *   📧 **Email:** [carlhmath@gmail.com](mailto:carlhmath@gmail.com)
 *   📍 **Ubicación:** Montevideo, Uruguay 🇺🇾
 

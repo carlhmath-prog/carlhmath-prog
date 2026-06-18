@@ -7,14 +7,9 @@ Desarrollador Fullstack con una sólida base analítica y lógica. Me especializ
 
 ## 🛠️ Tecnologías y Herramientas
 
-### Frontend
-<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Bootstrap" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
-
-### Backend & Bases de Datos
-<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL" /> <img src="https://shields.io" alt="JWT" />
-
-### Herramientas & DevOps
-<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Stripe" /> <img src="https://shields.io" alt="Render" /> <img src="https://shields.io" alt="Jest" />
+*   **Frontend:** React.js  |  JavaScript  |  Bootstrap  |  HTML5  |  CSS3  |  React Router DOM
+*   **Backend & BD:** Python  |  Flask  |  PostgreSQL  |  SQL  |  SQLAlchemy  |  JWT
+*   **Herramientas & DevOps:** Git  |  GitHub  |  Stripe API  |  Render  |  Jest
 
 ---
 

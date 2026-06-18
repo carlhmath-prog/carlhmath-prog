@@ -2,7 +2,7 @@
 
 ### **Full Stack Software Developer | Estudiante de Ingeniería en Computación (UdELAR)**
 
-Desarrollador Fullstack con una sólida base analítica y lógica. Me especializo en diseñar arquitecturas de software eficientes, bases de datos relacionales estables y la integración de pasarelas de pago seguras. Orientado a transformar requerimientos complejos en código limpio, escalable y soluciones web de alto impacto.
+Desarrollador Fullstack. Me especializo en diseñar arquitecturas de software eficientes, bases de datos relacionales estables y la integración de pasarelas de pago seguras. Orientado a transformar requerimientos complejos en código limpio, escalable y soluciones web de alto impacto.
 
 > 🛠️ **Actualmente:** Construyendo y optimizando aplicaciones fullstack escalables.
 > 🎯 **Disponibilidad:** Busco colaborar en proyectos de código abierto y retos profesionales que requieran soluciones creativas.

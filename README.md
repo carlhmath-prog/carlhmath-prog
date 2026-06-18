@@ -8,25 +8,13 @@ Desarrollador Fullstack con una sólida base analítica y lógica. Me especializ
 ## 🛠️ Tecnologías y Herramientas
 
 ### Frontend
-![React](https://shields.io)
-![JavaScript](https://shields.io)
-![Bootstrap](https://shields.io)
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
+<img src="https://shields.io" alt="React" /> <img src="https://shields.io" alt="JavaScript" /> <img src="https://shields.io" alt="Bootstrap" /> <img src="https://shields.io" alt="HTML5" /> <img src="https://shields.io" alt="CSS3" />
 
 ### Backend & Bases de Datos
-![Python](https://shields.io)
-![Flask](https://shields.io)
-![PostgreSQL](https://shields.io)
-![SQL](https://shields.io)
-![JWT](https://shields.io)
+<img src="https://shields.io" alt="Python" /> <img src="https://shields.io" alt="Flask" /> <img src="https://shields.io" alt="PostgreSQL" /> <img src="https://shields.io" alt="SQL" /> <img src="https://shields.io" alt="JWT" />
 
 ### Herramientas & DevOps
-![Git](https://shields.io)
-![GitHub](https://shields.io)
-![Stripe](https://shields.io)
-![Render](https://shields.io)
-![Jest](https://shields.io)
+<img src="https://shields.io" alt="Git" /> <img src="https://shields.io" alt="GitHub" /> <img src="https://shields.io" alt="Stripe" /> <img src="https://shields.io" alt="Render" /> <img src="https://shields.io" alt="Jest" />
 
 ---
 
